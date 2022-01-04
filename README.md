@@ -10,3 +10,9 @@ Features:
 See also:
 * [Debugging WebView](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews)
 * [chrome://inspect/#devices](chrome://inspect/#devices)
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
